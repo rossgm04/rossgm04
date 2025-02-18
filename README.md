@@ -1,5 +1,10 @@
-# 🌙 Hi there, I'm RoGarcía!
+# 🌙 Hi there, I'm Rocío García!
 
+![RocioGarcia](https://github.com/rossgm04/rossgm04/blob/main/RoGarc%C3%ADa.png?raw=true)
+
+<p align = "center">
+Hello! I’m RoGarcía, a web developer focused on building interactive and dynamic user experiences. I enjoy working with both frontend and backend technologies, currently diving deeper into Angular. I am also exploring Laravel and AWS to enhance my full-stack capabilities. I love tackling new challenges, learning, and pushing the boundaries of what I can create.
+</p>
 <!-- ABOUT YOU -->
 <hr>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
@@ -38,5 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Amazon_Web_Services_Logo_2018.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </p>
+<hr>
+
+
