@@ -10,8 +10,9 @@
   </ul>
 <hr>
 <br>
-## 🚀 Languages & Tools
 
+## 🚀 Languages & Tools
+<div style="display: flex; gap: 10px; text-decoration: none;">
 <p align="center">
   <!-- Frontend -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -63,5 +64,5 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
   </a>
 </p>
-
+</div>
 
